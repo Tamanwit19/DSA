@@ -11,7 +11,7 @@ public class firstOccurence {
                     least = mid;
                     r = mid-1;
                 }
-            }else if(nums[mid] < tar){
+            }else if(nums[mid] < target){
                 l = mid+1;
             }else{
                 r = mid-1;

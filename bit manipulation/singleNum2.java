@@ -17,4 +17,5 @@ public class singleNum2 {
 
         System.out.println(ans);
     }
+    
 }
